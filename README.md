@@ -2,6 +2,8 @@
 
 Go client for the SQRIL SaaS payout API: register a sender, decode a QR or look up a typed destination, get a quotation, execute the payout, and verify the webhook.
 
+Unofficial client, not affiliated with or endorsed by SQRIL.
+
 ## Install
 
 ```bash
